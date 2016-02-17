@@ -1,0 +1,22 @@
+{% if header %}
+	<b>{{header}}</b>
+{% endif %}
+<li><a href = "http://bostonfrogpond.com/winter-programs/pricing-season-passes/" target="_blank">Boston Common Frog Pond</a></li>
+<ul>Mon 10:00AM-3:45PM</ul>
+<ul>Tue-Thu 10:00AM-9:00PM</ul>
+<ul>Fri-Sat 10:00AM-10:00PM</ul>
+<ul>Sun 10:00AM-9:00PM</ul>
+<ul>Ticket sales end 30 minutes before closing.</ul>
+
+<li><a href = "https://www.somervillerec.com/info/popups/activity_dates.aspx?ProgramID=29752&EventID=0&ActivityID=143909" target="_blank">Veteran Memorial Ice Rink</a></li>
+{% if veteran_data %}
+	{% for date, info in veteran_data.items %}
+		<ul>{{date}}
+			{% for key, value in info.items %}
+				<ol>{{key}}: {{value}}</ol>
+			{% endfor %}
+		</ul>
+	{% endfor %}
+{% endif %}
+
+

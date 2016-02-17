@@ -55,7 +55,7 @@ ROOT_URLCONF = 'utility_parser.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['D:/Personal/django_apps/parser/utility_parser/schedules_parser/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

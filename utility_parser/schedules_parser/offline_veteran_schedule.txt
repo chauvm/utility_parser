@@ -1,0 +1,3625 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<style type="text/css" media="all">
+@import "/master/info/stylesheet.css";
+html { margin: 0;}
+body {width: auto; min-width: 100%; border: none; margin: 0;}
+.btn {font-size: 1.1em;}
+table.styled {position: relative;}
+</style>
+<style type="text/css" media="print">
+.noprint {display: none;}
+</style>
+<!--[if lt IE 8]>
+<style type="text/css" media="all">
+.box {display: inline-block;}
+.box {display: inline;}
+hr {margin: 0;}
+#Login {padding: 0 0 5px 7px;}
+</style>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="/master/info/pngfix.js"></script>
+<style type="text/css" media="all">
+body {width: 97.6%;}
+.mainbg {right: 0;}
+.mainbgimg {background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/master/info/images/swing_bg2.png', sizingMethod='image');}
+
+.maintextureimg {background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/master/info/images/texture_bg.png', sizingMethod='image');}
+</style>
+<![endif]-->
+
+<link rel="shortcut icon" href="/PhotoPool/favicon.ico" /><meta name="author" content="MyRec.com" /><meta http-equiv="content-language" content="en-US" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><meta name="copyright" content="© 2007 MyRec.com" />
+<meta name="keywords" content=" recreation website building program, administrative management system, on line registration, roster and facility management, website software, easy navigation, recreation center, administrative capabilities, recreation department">
+<title>
+Activity Dates
+</title></head>
+
+<script language="javascript">
+window.focus();
+</script>
+
+
+<body leftmargin="0" topmargin="0">
+
+
+<form method="post" action="./activity_dates.aspx?ProgramID=29752&amp;EventID=0&amp;ActivityID=143909" id="frmMain">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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IFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QClgEPZBYCZg8VBQAYRnJpZGF5IERlY2VtYmVyIDE4LCAyMDE1CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZAKXAQ9kFgJmDxUFABhTdW5kYXkgRGVjZW1iZXIgMjAsIDIwMTUHMjo0MCBQTQc0OjMwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCmAEPZBYCZg8VBQAYTW9uZGF5IERlY2VtYmVyIDIxLCAyMDE1CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZAKZAQ9kFgJmDxUFABlUdWVzZGF5IERlY2VtYmVyIDIyLCAyMDE1BzE6MDAgUE0HMzowMCBQTR5WZXRlcmFucyBNZW1vcmlhbCBTa2F0aW5nIFJpbmtkApoBD2QWAmYPFQUAG1dlZG5lc2RheSBEZWNlbWJlciAyMywgMjAxNQgxMjowMCBQTQcyOjAwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCmwEPZBYCZg8VBQAaVGh1cnNkYXkgRGVjZW1iZXIgMjQsIDIwMTUHMTowMCBQTQczOjAwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCnAEPZBYCZg8VBQAYRnJpZGF5IERlY2VtYmVyIDI1LCAyMDE1CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZAKdAQ9kFgJmDxUFABhTdW5kYXkgRGVjZW1iZXIgMjcsIDIwMTUHMjo0MCBQTQc0OjMwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCngEPZBYCZg8VBQAYTW9uZGF5IERlY2VtYmVyIDI4LCAyMDE1CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZAKfAQ9kFgJmDxUFABlUdWVzZGF5IERlY2VtYmVyIDI5LCAyMDE1BzE6MDAgUE0HMzowMCBQTR5WZXRlcmFucyBNZW1vcmlhbCBTa2F0aW5nIFJpbmtkAqAB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UE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZALAAQ9kFgJmDxUFABdNb25kYXkgRmVicnVhcnkgOCwgMjAxNggxMjowMCBQTQcyOjAwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCwQEPZBYCZg8VBQAYVHVlc2RheSBGZWJydWFyeSA5LCAyMDE2BzE6MDAgUE0HMzowMCBQTR5WZXRlcmFucyBNZW1vcmlhbCBTa2F0aW5nIFJpbmtkAsIBD2QWAmYPFQUAG1dlZG5lc2RheSBGZWJydWFyeSAxMCwgMjAxNggxMjowMCBQTQcyOjAwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCwwEPZBYCZg8VBQAaVGh1cnNkYXkgRmVicnVhcnkgMTEsIDIwMTYHMTowMCBQTQczOjAwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCxAEPZBYCZg8VBQAYRnJpZGF5IEZlYnJ1YXJ5IDEyLCAyMDE2CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZALFAQ9kFgJmDxUFABhTdW5kYXkgRmVicnVhcnkgMTQsIDIwMTYHMjozMCBQTQc0OjIwIFBNHlZldGVyYW5zIE1lbW9yaWFsIFNrYXRpbmcgUmlua2QCxgEPZBYCZg8VBQAYTW9uZGF5IEZlYnJ1YXJ5IDE1LCAyMDE2CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZALHAQ9kFgJmDxUFABlUdWVzZGF5IEZlYnJ1YXJ5IDE2LCAyMDE2CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5rZALIAQ9kFgJmDxUFABtXZWRuZXNkYXkgRmVicnVhcnkgMTcsIDIwMTYIMTI6MDAgUE0HMjowMCBQTR5WZXRlcmFucyBNZW1vcmlhbCBTa2F0aW5nIFJpbmtkAskBD2QWAmYPFQUAGlRodXJzZGF5IEZlYnJ1YXJ5IDE4LCAyMDE2CDEyOjAwIFBNBzI6MDAgUE0eVmV0ZXJhbnMgTWVtb3JpYWwgU2thdGluZyBSaW5r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" />
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6C754F43" />
+</div>
+<div id="MainContentPopup" class="center">
+<table width="97%" cellpadding="5" cellspacing="5">
+<tr>
+<td class="left" width="100px" style="padding: 5px;">
+<a href="javascript: window.print();" class="noprint">Print</a>
+</td>
+<td class="center" style="padding: 5px;">
+<b><span id="lblPageTitle" class="PageTitle">Activity Schedule</span></b>
+</td>
+<td class="right" width="100px" style="padding: 5px;">
+<a href="javascript: window.close();" class="noprint">Close</a>
+</td>
+</tr>
+</table>
+
+<script language="javascript">
+window.focus();
+</script>
+
+<div class="center">
+<table class="styled">
+<tr class="trTitle">
+<td>Activity</td>
+<td>Activity Code</td>
+</tr>
+<tr>
+<td>
+<span id="Content_lblActivityName">Public Skating</span>
+</td>
+<td>
+<span id="Content_lblActivityCode"></span>
+</td>
+</tr>
+</table><br/>
+
+
+
+
+<table class="styled">
+<tr class="trTitle">
+<td>Date</td>
+<td>Times</td>
+<td>Location</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday June 26, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Founders Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday June 28, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Founders Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday June 29, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday June 29, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday July 1, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday July 3, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday July 5, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday July 6, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday July 6, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday July 8, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday July 10, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday July 13, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday July 13, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday July 15, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday July 17, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday July 19, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday July 20, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday July 20, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday July 22, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday July 24, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday July 26, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday July 27, 2015
+</td>
+<td nowrap>
+3:30 PM
+-
+5:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday July 27, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Thursday July 30, 2015
+</td>
+<td nowrap>
+3:30 PM
+-
+5:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday July 31, 2015
+</td>
+<td nowrap>
+3:30 PM
+-
+5:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday August 2, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday August 3, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday August 3, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday August 5, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday August 7, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+1:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday August 9, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday August 10, 2015
+</td>
+<td nowrap>
+3:30 PM
+-
+4:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday August 10, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Tuesday August 11, 2015
+</td>
+<td nowrap>
+3:30 PM
+-
+4:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday August 14, 2015
+</td>
+<td nowrap>
+3:30 PM
+-
+4:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday August 16, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday August 17, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday August 17, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday August 19, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday August 21, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday August 23, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday August 24, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday August 24, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday August 26, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday August 28, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+3:50 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday August 30, 2015
+</td>
+<td nowrap>
+12:30 PM
+-
+2:20 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday August 31, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday August 31, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday September 2, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday September 4, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday September 6, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday September 7, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday September 8, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday September 9, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday September 10, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday September 11, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday September 13, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday September 14, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday September 15, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday September 16, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday September 17, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday September 18, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday September 20, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Founders Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday September 21, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday September 22, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday September 23, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday September 24, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday September 25, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday September 27, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday September 28, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday September 29, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday September 30, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday October 1, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday October 2, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday October 4, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday October 5, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday October 6, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday October 7, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday October 8, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday October 9, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday October 11, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Founders Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday October 12, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday October 13, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday October 14, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday October 15, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday October 16, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday October 18, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday October 19, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday October 19, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Tuesday October 20, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday October 21, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Thursday October 22, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday October 23, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday October 25, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+4:00 PM
+</td>
+<td>
+Founders Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday October 26, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday October 26, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday October 27, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday October 28, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday October 29, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday October 30, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday November 1, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+4:00 PM
+</td>
+<td>
+Founders Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday November 2, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday November 2, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Tuesday November 3, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday November 4, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Thursday November 5, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday November 6, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday November 8, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday November 9, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday November 9, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday November 10, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday November 11, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday November 12, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday November 13, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Saturday November 14, 2015
+</td>
+<td nowrap>
+1:30 PM
+-
+3:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday November 15, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday November 16, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday November 16, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday November 17, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday November 18, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday November 19, 2015
+</td>
+<td nowrap>
+11:00 AM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday November 20, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday November 22, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday November 23, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday November 23, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Tuesday November 24, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday November 25, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Thursday November 26, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday November 27, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday November 29, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday November 30, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday November 30, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday December 1, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday December 2, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday December 3, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday December 4, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday December 6, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday December 7, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday December 7, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Tuesday December 8, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Wednesday December 9, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Thursday December 10, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Friday December 11, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday December 13, 2015
+</td>
+<td nowrap>
+2:00 PM
+-
+4:00 PM
+</td>
+<td>
+Founders Ice Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday December 14, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday December 14, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday December 15, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday December 16, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday December 17, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday December 18, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday December 20, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday December 21, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday December 22, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday December 23, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday December 24, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday December 25, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday December 27, 2015
+</td>
+<td nowrap>
+2:40 PM
+-
+4:30 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday December 28, 2015
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday December 29, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday December 30, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday December 31, 2015
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Sunday January 3, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Monday January 4, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday January 6, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday January 7, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday January 8, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday January 10, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday January 11, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday January 12, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday January 13, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday January 14, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday January 15, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday January 17, 2016
+</td>
+<td nowrap>
+3:30 PM
+-
+5:30 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday January 18, 2016
+</td>
+<td nowrap>
+11:30 AM
+-
+1:30 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday January 19, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday January 20, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday January 21, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday January 22, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday January 24, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday January 25, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday January 26, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday January 27, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday January 28, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday January 29, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday January 31, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday February 1, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday February 2, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday February 3, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday February 4, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday February 5, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday February 7, 2016
+</td>
+<td nowrap>
+10:00 AM
+-
+12:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday February 8, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday February 9, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday February 10, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday February 11, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday February 12, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday February 14, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday February 15, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday February 16, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday February 17, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday February 18, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday February 19, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday February 21, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday February 22, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday February 23, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday February 24, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday February 25, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday February 26, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday February 28, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday February 29, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday March 1, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday March 2, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday March 3, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday March 4, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday March 6, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday March 7, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday March 8, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday March 9, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday March 10, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday March 11, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday March 13, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday March 14, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday March 15, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday March 16, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday March 17, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday March 18, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday March 20, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday March 21, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday March 22, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday March 23, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday March 24, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday March 25, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday March 27, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday March 28, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday March 29, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday March 30, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday March 31, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday April 1, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday April 3, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday April 4, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday April 5, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday April 6, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday April 7, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday April 8, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Sunday April 10, 2016
+</td>
+<td nowrap>
+2:30 PM
+-
+4:20 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Monday April 11, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Tuesday April 12, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Wednesday April 13, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="">
+<td nowrap>
+Thursday April 14, 2016
+</td>
+<td nowrap>
+1:00 PM
+-
+3:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+<tr class="alt ">
+<td nowrap>
+Friday April 15, 2016
+</td>
+<td nowrap>
+12:00 PM
+-
+2:00 PM
+</td>
+<td>
+Veterans Memorial Skating Rink&nbsp;
+</td>
+</tr>
+
+</table>
+
+
+
+</div>
+
+<table width="97%" cellpadding="5" cellspacing="5" border="0">
+<tr>
+<td class="left" width="50%" style="padding: 5px;">
+<a href="javascript: window.print();" class="noprint">Print</a>
+</td>
+<td class="right" width="50%" style="padding: 5px;">
+<a href="javascript: window.close();" class="noprint">Close</a>
+</td>
+</tr>
+</table>
+</div>
+</form>
+</body>
+</html>
