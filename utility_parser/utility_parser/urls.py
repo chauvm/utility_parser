@@ -17,6 +17,7 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-	url(r'^schedules_parser/', include('schedules_parser.urls')),
 	url(r'^admin/', admin.site.urls),
+	url(r'^schedules_parser/', include('schedules_parser.urls')),
+	url(r'^blog/', include('blog.urls')),
 ]

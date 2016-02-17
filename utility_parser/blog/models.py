@@ -13,11 +13,11 @@ class Post(models.Model):
 	published = models.BooleanField(default=True)
 	created = models.DateTimeField(auto_now_add=True)
  
-class Meta:
-	ordering = ['-created']
+	class Meta:
+		ordering = ['-created']
      
-def __unicode__(self):
-	return u'%s' % self.title
+	def __unicode__(self):
+		return u'%s' % self.title
 
-def get_absolute_url(self):
-	return reverse('blog.views.post', args=[self.slug])
+	def get_absolute_url(self):
+		return reverse('blog-views-post', args=[self.slug])
